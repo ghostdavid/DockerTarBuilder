@@ -1,4 +1,4 @@
-# *如果要使用，去fork原项目修改，不要fork我的*
+# *如果要用，fork原仓库的最新版本去修改，不要fork我的*
 
 [![GitHub](https://img.shields.io/github/license/wukongdaily/DockerTarBuilder.svg?label=LICENSE&logo=github&logoColor=%20)](https://github.com/wukongdaily/DockerTarBuilder/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/wukongdaily/DockerTarBuilder.svg?style=flat&logo=appveyor&label=Stars&logo=github)
